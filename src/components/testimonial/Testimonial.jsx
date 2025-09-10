@@ -2,7 +2,7 @@ export default function Testimonial() {
      return (
           <>
                <section className="w-[1520px] h-[677px] m-auto mt-20 relative">
-                  <img src="../../../public/Frames/Frame-left.png" alt="frame-left" className="h-full absolute w-30 z-50"/>
+                  <img src="/Frames/Frame-left.png" alt="frame-left" className="h-full absolute w-30 z-50"/>
                     <h1 className="text-[64px] text-center font-medium mt-5 leading-20">
                          Reviews form happy clients
                     </h1>
@@ -12,7 +12,7 @@ export default function Testimonial() {
                                    <section className="flex items-center gap-3">
                                         <section className="w-[70px] h-[70px]">
                                              <img
-                                                  src="../../../public/testimonial_element/Jane.png"
+                                                  src="/testimonial_element/Jane.png"
                                                   alt="jane image"
                                                   className="w-full h-full object-cover rounded-4xl"
                                              />
@@ -39,7 +39,7 @@ export default function Testimonial() {
                                    <section className="flex items-center gap-3">
                                         <section className="w-[70px] h-[70px]">
                                              <img
-                                                  src="../../../public/testimonial_element/annette.png"
+                                                  src="/testimonial_element/annette.png"
                                                   alt="annette image"
                                                   className="w-full h-full object-cover rounded-4xl"
                                              />
@@ -66,7 +66,7 @@ export default function Testimonial() {
                                    <section className="flex items-center gap-3">
                                         <section className="w-[70px] h-[70px]">
                                              <img
-                                                  src="../../../public/testimonial_element/savannah.png"
+                                                  src="/testimonial_element/savannah.png"
                                                   alt="savannah image"
                                                   className="w-full h-full object-cover rounded-4xl"
                                              />
@@ -93,7 +93,7 @@ export default function Testimonial() {
                                    <section className="flex items-center gap-3">
                                         <section className="w-[70px] h-[70px]">
                                              <img
-                                                  src="../../../public/testimonial_element/arlene.png"
+                                                  src="/testimonial_element/arlene.png"
                                                   alt="arlene image"
                                                   className="w-full h-full object-cover rounded-4xl"
                                              />
@@ -120,7 +120,7 @@ export default function Testimonial() {
                                    <section className="flex items-center gap-3">
                                         <section className="w-[70px] h-[70px]">
                                              <img
-                                                  src="../../../public/testimonial_element/Devon.png"
+                                                  src="/testimonial_element/Devon.png"
                                                   alt="devon image"
                                                   className="w-full h-full object-cover rounded-4xl"
                                              />
@@ -147,7 +147,7 @@ export default function Testimonial() {
                                    <section className="flex items-center gap-3">
                                         <section className="w-[70px] h-[70px]">
                                              <img
-                                                  src="../../../public/testimonial_element/nathan.png"
+                                                  src="/testimonial_element/nathan.png"
                                                   alt="nathan image"
                                                   className="w-full h-full object-cover rounded-4xl"
                                              />
@@ -169,7 +169,7 @@ export default function Testimonial() {
                               </p>
                          </section>
                     </section>
-                    <img src="../../../public/Frames/Frame-right.png" alt="frame-right" className="h-full absolute right-0 top-0 w-30 z-50"/>
+                    <img src="/Frames/Frame-right.png" alt="frame-right" className="h-full absolute right-0 top-0 w-30 z-50"/>
                </section>
           </>
      );

@@ -21,7 +21,7 @@ export default function Travel() {
                          <section className="p-8 flex gap-[24px] ">
                               <section className="border-[#ADADADC2] border rounded-2xl bg-[#7575752E] p-5">
                                    <img
-                                        src="../../../public/travel_element/behicle.png"
+                                        src="/travel_element/behicle.png"
                                         className="w-[64px] h-[64px] mb-5"
                                         alt="behicle image"
                                    />
@@ -36,12 +36,12 @@ export default function Travel() {
                               </section>
                               <section className="border-[#ADADADC2] border rounded-2xl bg-[#7575752E] p-5">
                                    <img
-                                        src="../../../public/travel_element/behicle.png"
+                                        src="/travel_element/wallet.png"
                                         className="w-[64px] h-[64px] mb-5"
-                                        alt="behicle image"
+                                        alt="wallet image"
                                    />
                                    <h1 className="text-2xl font-semibold text-[#F4F4F4] mb-2">
-                                        Tour and travel
+                                        Budget package
                                    </h1>
                                    <p className="text-[16px] font-normal text-[#C9C9C9]">
                                         Indulge in luxury with our exclusive
@@ -51,12 +51,12 @@ export default function Travel() {
                               </section>
                               <section className="border-[#ADADADC2] border rounded-2xl bg-[#7575752E] p-5">
                                    <img
-                                        src="../../../public/travel_element/behicle.png"
+                                        src="/travel_element/compass.png"
                                         className="w-[64px] h-[64px] mb-5"
-                                        alt="behicle image"
+                                        alt="compass image"
                                    />
                                    <h1 className="text-2xl font-semibold text-[#F4F4F4] mb-2">
-                                        Tour and travel
+                                        Adventure
                                    </h1>
                                    <p className="text-[16px] font-normal text-[#C9C9C9]">
                                         Indulge in luxury with our exclusive
@@ -67,7 +67,7 @@ export default function Travel() {
                          </section>
                     </section>
                     <section className="flex items-center justify-center">
-                         <button className="bg-[#FFFFFF] flex items-center gap-2 text-[#001B30] font-bold text-2xl px-5 py-1 rounded-4xl">
+                         <button className="bg-[#FFFFFF] cursor-pointer flex items-center gap-2 text-[#001B30] font-bold text-2xl px-5 py-1 rounded-4xl">
                               Book now
                               <i class="fa-solid fa-arrow-right text-[15px] rotate-[-45deg]"></i>
                          </button>

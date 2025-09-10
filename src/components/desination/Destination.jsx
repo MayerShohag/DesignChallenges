@@ -40,7 +40,7 @@ export default function Destination() {
                               </section>
                               <section className="w-[524px] h-[573px]">
                                    <img
-                                        src="../../../public/destination_element/images-1.png"
+                                        src="/destination_element/images-1.png"
                                         alt="image-1"
                                         className="w-full h-full object-cover rounded-2xl"
                                    />
@@ -63,7 +63,7 @@ export default function Destination() {
                                         </a>
                                    </section>
                                    <img
-                                        src="../../../public/destination_element/images-5.png"
+                                        src="/destination_element/images-5.png"
                                         alt="image-2"
                                         className="w-full h-full object-cover rounded-2xl"
                                    />
@@ -84,7 +84,7 @@ export default function Destination() {
                                         </a>
                                    </section>
                                    <img
-                                        src="../../../public/destination_element/images-4.png"
+                                        src="/destination_element/images-4.png"
                                         alt="image-3"
                                         className="w-full h-full object-cover rounded-2xl"
                                    />
@@ -105,7 +105,7 @@ export default function Destination() {
                                         </a>
                                    </section>
                                    <img
-                                        src="../../../public/destination_element/images-3.png"
+                                        src="/destination_element/images-3.png"
                                         alt="image-3"
                                         className="w-full h-full object-cover object-center-left rounded-2xl"
                                    />

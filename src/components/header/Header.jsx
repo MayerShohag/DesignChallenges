@@ -1,3 +1,4 @@
+
 export default function Header() {
      return (
           <>
@@ -6,7 +7,7 @@ export default function Header() {
                          <section className="logo">
                               <a href="#home">
                                    <img
-                                        src="../../../public/logo.png"
+                                        src='/logo.png'
                                         className="w-[166px] h-[40px]"
                                         alt="logo"
                                    />
@@ -29,15 +30,28 @@ export default function Header() {
                          <section className="menus">
                               <ul className="flex gap-[32px] items-center text-[16px] font-medium text-[#D4D4D4]">
                                    <li>
-                                        <a href="#top-destinations"  className="hover:text-white">
+                                        <a
+                                             href="#top-destinations"
+                                             className="hover:text-white"
+                                        >
                                              TOP DESTINATIONS
                                         </a>
                                    </li>
                                    <li>
-                                        <a href="#testimonial" className="hover:text-white">TESTIMONIAL</a>
+                                        <a
+                                             href="#testimonial"
+                                             className="hover:text-white"
+                                        >
+                                             TESTIMONIAL
+                                        </a>
                                    </li>
                                    <li>
-                                        <a href="#sevices" className="hover:text-white">SERVICES</a>
+                                        <a
+                                             href="#sevices"
+                                             className="hover:text-white"
+                                        >
+                                             SERVICES
+                                        </a>
                                    </li>
                                    <button className="rounded-[38px] hover:bg-[#EBEBEB] hover:text-[#0B0801] border-2 px-5 py-1 cursor-pointer">
                                         CONTACT US

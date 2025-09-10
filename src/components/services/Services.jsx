@@ -36,7 +36,7 @@ export default function Services() {
                                    </section>
                                    <img
                                         className="w-full h-full object-cover rounded-2xl object-bottom-right"
-                                        src="../../../public/service_element/destination.png"
+                                        src="/service_element/destination.png"
                                         alt="destination image"
                                    />
                               </section>
@@ -59,7 +59,7 @@ export default function Services() {
                                    </section>
                                    <img
                                         className="w-full h-full object-cover rounded-2xl object-bottom-right"
-                                        src="../../../public/service_element/available.png"
+                                        src="/service_element/available.png"
                                         alt="available image"
                                    />
                               </section>
@@ -82,7 +82,7 @@ export default function Services() {
                                    </section>
                                    <img
                                         className="w-full h-full object-cover rounded-2xl object-bottom-right"
-                                        src="../../../public/service_element/transport.png"
+                                        src="/service_element/transport.png"
                                         alt="transport image"
                                    />
                               </section>
@@ -105,7 +105,7 @@ export default function Services() {
                                    </section>
                                    <img
                                         className="w-full h-full object-cover rounded-2xl object-bottom-right"
-                                        src="../../../public/service_element/experience.png"
+                                        src="/service_element/experience.png"
                                         alt="experience image"
                                    />
                               </section>

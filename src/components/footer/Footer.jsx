@@ -17,7 +17,7 @@ export default function Footer() {
                          <section>
                               <section>
                                    <img
-                                        src="../../../public/logo.png"
+                                        src="/logo.png"
                                         alt="footer logo"
                                         className="w-[203px] h-[48px]"
                                    />

@@ -37,7 +37,7 @@ export default function Hero() {
                               <section className="w-[1000px] m-auto relative mr-0 flex flex-wrap gap-4">
                                    <section className="w-[220px] h-[355px]">
                                         <img
-                                             src="../../../public/hero_element/thailand-image.png"
+                                             src="/hero_element/thailand-image.png"
                                              alt="thailand"
                                              className="w-[220px] h-[314px] object-cover rounded-[10px]"
                                         />
@@ -50,7 +50,7 @@ export default function Hero() {
                                    </section>
                                    <section className="switzerland w-[220px] h-[183px]">
                                         <img
-                                             src="../../../public/hero_element/switzerland-image.png"
+                                             src="/hero_element/switzerland-image.png"
                                              alt="switzerland"
                                              className="w-[220px] h-[183px] rounded-[10px]"
                                         />
@@ -63,7 +63,7 @@ export default function Hero() {
                                    </section>
                                    <section className="lampang w-[220px] h-[355px] mt-3">
                                         <img
-                                             src="../../../public/hero_element/lampang-image.png"
+                                             src="/hero_element/lampang-image.png"
                                              alt="lampang"
                                              className="rounded-[10px] w-[220px] h-[314px] object-cover object-top-left"
                                         />
@@ -76,7 +76,7 @@ export default function Hero() {
                                    </section>
                                    <section className="nepal w-[240px] h-[224px]">
                                         <img
-                                             src="../../../public/hero_element/lepal-image.png"
+                                             src="/hero_element/lepal-image.png"
                                              alt="nepal"
                                              className="rounded-[10px] object-cover"
                                         />
@@ -89,7 +89,7 @@ export default function Hero() {
                                    </section>
                                    <section className="japan w-[220px]  h-[205px]  absolute top-[355px]">
                                         <img
-                                             src="../../../public/hero_element/japan-image.png"
+                                             src="/hero_element/japan-image.png"
                                              alt="japan"
                                              className="rounded-[10px] w-[220px] h-[100px] object-cover"
                                         />
@@ -102,7 +102,7 @@ export default function Hero() {
                                    </section>
                                    <section className="temp-image-1 w-[220px] h-[335px]  absolute top-[225px] left-[236px]">
                                         <img
-                                             src="../../../public/hero_element/thailand-image.png"
+                                             src="/hero_element/thailand-image.png"
                                              alt="Thailand"
                                              className="rounded-[10px] w-[220px] h-[180px]"
                                         />
@@ -115,7 +115,7 @@ export default function Hero() {
                                    </section>
                                    <section className="temp-image-2 w-[220px] h-[190px]  absolute top-[370px] right-[304px] ">
                                         <img
-                                             src="../../../public/hero_element/lepal-image.png"
+                                             src="/hero_element/lepal-image.png"
                                              alt="nepal"
                                              className="rounded-[10px]"
                                         />
@@ -128,7 +128,7 @@ export default function Hero() {
                                    </section>
                                    <section className="temp-image-3 absolute w-[240px]  h-[360px] top-[200px] right-[48px]">
                                         <img
-                                             src="../../../public/hero_element/japan-image.png"
+                                             src="/hero_element/japan-image.png"
                                              alt="lampang"
                                              className="w-[240px] h-[318px] object-cover rounded-[10px]"
                                         />

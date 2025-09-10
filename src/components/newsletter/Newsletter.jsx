@@ -6,7 +6,7 @@ export default function Newsletter() {
                          <section className="items-center flex gap-20 w-[1440px] m-auto">
                               <section className="w-1/2 h-[384px]">
                                    <img
-                                        src="../../../public/newletter_element/images-6.png"
+                                        src="/newletter_element/images-6.png"
                                         alt="indonesia"
                                         className="w-full h-full object-cover rounded-2xl"
                                    />
@@ -62,8 +62,8 @@ export default function Newsletter() {
                               </section>
                               <section className="w-1/2 h-[384px]">
                                    <img
-                                        src="../../../public/newletter_element/images-7.png"
-                                        alt="indonesia"
+                                        src="/newletter_element/images-7.png"
+                                        alt="paris"
                                         className="w-full h-full object-cover rounded-2xl"
                                    />
                               </section>
